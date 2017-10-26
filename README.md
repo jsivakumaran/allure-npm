@@ -39,5 +39,5 @@ Allure package should be downloaded from external storage. Repository content do
 
 1. Download Allure-commandline package: `./fetch-sources <version>`
 2. Update package version `npm version 2.0.0-BETAX` (because NPM require triple numbers in version, like 0.0.0)
-3. Pubslish result to NPM: `npm publish --tag beta` (while Allure2 is not stable)
+3. Publish result to NPM: `npm publish --tag beta` (while Allure2 is not stable)
 
